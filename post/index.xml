@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kushagra Chaturvedi</title>
+    <link>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/</link>
+    <description>Recent content in Projects on Kushagra Chaturvedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Fashion_MNIST-End-to-End-Using-Streamlit</title>
+      <link>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-6/</link>
+      <pubDate>Wed, 30 Jun 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-6/</guid>
+      <description>Data Description
+This is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images.
+Model Summary:
+  Model Description and Parameters   Project&amp;rsquo;s Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Movies-Clustering</title>
+      <link>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-5/</link>
+      <pubDate>Sun, 30 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-5/</guid>
+      <description>About:
+There are some movies we like, some we don&amp;rsquo;t. Most people have a preference for movies of a similar genre. Some of us love watching action movies, while some of us like watching horror. Some of us like watching movies that have ninjas in them, while some of us like watching superheroes.
+Movies within a genre often share common base parameters. Consider the following two movies:
+ Interstellar    Gravity   Both movies, Interstellar and Gravity, are movies based on space exploration.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Frosthack_Resyst</title>
+      <link>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-4/</link>
+      <pubDate>Sun, 09 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-4/</guid>
+      <description>This is the link of app deployed on Heroku: https://resyst-frosthack.herokuapp.com/ For new account , you must sign up as a service provider. Then Login and provide details about the services you can provide. For a patient, you don’t need an account. Just add the pincode, and all available service providers would shown to you directly.
+Project&amp;rsquo;s Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Bag-Of-Visual-Words-from-Scratch</title>
+      <link>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-3/</link>
+      <pubDate>Mon, 22 Mar 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-3/</guid>
+      <description>Applied Bag Of Visual Words Model on Image Dataset Applied Bag Of Visual Words algorithm for Image Data from Scratch. It was multi-class Image Data. The Classes were: Botanical Garden, Elevator Shaft and Bus Interior. After implementing the BOVW algorithm, extracted vectors were fed to a multilayer neural network also made from scratch without using any frameworks. obtained a 32-dimensional representation of each image in Training, Validation and Test Data. This 32 dimensional representation was feed into the neural network containing 64 neurons in Layer 1 and 32 neurons in Layer 2.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Gideon-Chat-bot</title>
+      <link>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-2/</link>
+      <pubDate>Fri, 15 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-2/</guid>
+      <description>Developed a Chatbot and hosted it on Telegram to answer questions of the freshers entering this college. Collected Data about IIT Mandi and different queries a student has while taking admission in a college. Created a Neural Network for training the chatbot. Used text Preprocessing like tokenization and stemming.
+Project&amp;rsquo;s Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: OpenCV-Programs</title>
+      <link>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-1/</link>
+      <pubDate>Thu, 03 Sep 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://kushagra-chaturvedi.github.io/Kushagra-Portfolio-2/post/project-1/</guid>
+      <description>Developed Motion Detection, Object Tracing and Hand Tracking projects using OpenCV library of Python.
+Project&amp;rsquo;s Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
